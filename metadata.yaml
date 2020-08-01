@@ -1,11 +1,14 @@
 _repo: Leiv_62759
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Toivonen, Olavi
     alias: Loiva
     gutenberg_agent_id: '52108'
     url: http://www.gutenberg.org/2009/agents/52108
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Garborg, Arne
@@ -18,6 +21,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Arne_Garborg
     - https://en.wikipedia.org/wiki/Arne_Garborg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62759#Leiv
 gutenberg_issued: '2020-07-26'
 gutenberg_type: Text
 identifiers:
