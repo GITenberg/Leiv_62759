@@ -1,0 +1,34 @@
+_repo: Leiv_62759
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Toivonen, Olavi
+    alias: Loiva
+    gutenberg_agent_id: '52108'
+    url: http://www.gutenberg.org/2009/agents/52108
+creator:
+  author:
+    agent_name: Garborg, Arne
+    birthdate: 1851
+    deathdate: 1924
+    gutenberg_agent_id: '8538'
+    url: http://www.gutenberg.org/2009/agents/8538
+    wikipedia:
+    - https://no.wikipedia.org/wiki/Arne_Garborg
+    - https://fi.wikipedia.org/wiki/Arne_Garborg
+    - https://en.wikipedia.org/wiki/Arne_Garborg
+description: ''
+gutenberg_issued: '2020-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62759'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Leiv
+url: http://www.gutenberg.org/ebooks/62759
